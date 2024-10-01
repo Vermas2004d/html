@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    color: #3498db;
+}
+p {
+    line-height: 1.6;
+
+}
+/* FOOTER */
+footer{
+    text-align:center;
+    color:#fff;
+    background-color:#3498db;
+}
+img{
+    height:400px;
+    width:400px;
+}
+/* #result{
+    
+    float:left;
+    
+}
+#discussion{
+   
+    float:right;
+} */

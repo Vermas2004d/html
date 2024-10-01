@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color:#3498db;
+    color: white;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #3498db;
+}
+
+p {
+    line-height: 1.5;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+}
+ /* section img{
+    float:right;
+} */
+img{
+    height:300px;
+    width:300px;
+   
+}
